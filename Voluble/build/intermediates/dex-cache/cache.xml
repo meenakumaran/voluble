@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_daaa76390d3bfa9f59060ade3e1f90df280b235e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-24.2.0_38ceddbd31bc482b5737633057c11d4c19e3ca6e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.2.0_84cd00f0619c77468b317a420fc79ee8c9f307cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.2.0_50d6dcab1f87aa424db068c283445f98ed2f3fdc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-24.2.0_cfd469efdae925e2c8aa0fc095f3560cccf129c7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_5e18c2b5f70d159d01e7222c3e5ae5da45c94322.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.2.0_580480dea1e1eb219b15d727f80aaaadc423013a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_407a15427dc91c493d8ddff52db74f639199e05c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-24.2.0_f65f03b250955795d14fc970dc440f0bf72f5130.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_9fd9e2d2cf4d73d9cc8c4ea2e2cf9820cd60fbdd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-24.2.0_754e375706ee99653c48d636d4bbd21fdf13b8e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\internal_impl-24.2.0_f756d819e50b0611f2291b728870c8ad7d7ab04b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-24.2.0_cad9cfeaca0c551b6e577cd4ddad2c8959b1fdbf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-design-24.2.0_b164c46636a4c21b5f282a1183d2c0cebae53187.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.2.0_6359ab47c23818f188f91e6dc93ad2c58f7594f7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.2.0_e86d5e68643db31f8da4b53c6e54e9f9da4cc2b8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Meenakumaran\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\Meenakumaran\AndroidStudioProjects\Voluble\app\build\intermediates\pre-dexed\release\support-annotations-24.2.0_e84fe2d592c3fc0828c1aa5d677b38de54ca9d5c.jar" />
+    </item>
+
+</items>
